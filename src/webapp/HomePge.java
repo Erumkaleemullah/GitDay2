@@ -5,4 +5,5 @@ public class HomePge {
     // new menu
     //more page
     //add logo
+    // add footer
 }
