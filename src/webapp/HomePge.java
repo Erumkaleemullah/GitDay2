@@ -4,4 +4,5 @@ public class HomePge {
     // setting up home page
     // new menu
     //more page
+    //add logo
 }
